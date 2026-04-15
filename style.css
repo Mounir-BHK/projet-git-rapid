@@ -1,0 +1,29 @@
+/* Style général de la page */
+body {
+  background-color: rgb(247, 246, 243);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 40px;
+  color: #333;
+}
+
+/* Conteneur principal pour centrer le contenu */
+body {
+  max-width: 800px;
+  margin: auto;
+}
+
+/* Style du titre principal */
+h1 {
+  font-size: 40px;
+  color: #2c3e50;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Style des paragraphes */
+.decoration {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
